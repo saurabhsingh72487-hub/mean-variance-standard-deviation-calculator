@@ -5,7 +5,6 @@ This project is part of the freeCodeCamp Data Analysis with Python Certification
 ## Description
 
 This project uses NumPy to calculate:
-
 - Mean
 - Variance
 - Standard Deviation
