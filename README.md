@@ -14,7 +14,6 @@ This project uses NumPy to calculate:
 for rows, columns, and the flattened matrix of a 3x3 matrix.
 
 ---
-
 ## Technologies Used
 
 - Python
